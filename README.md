@@ -15,6 +15,7 @@ Docker version 27.1.1, build 6312585
 https://code.visualstudio.com/
 
 ### 3. VSC Extension 'Dev Containers' 설치
+![vsc_dev_containers](https://github.com/user-attachments/assets/ac0da2cb-cd10-4a23-8df5-0dd78d46be5b)
 
 ### 4. Dev container 실행
 1. Clone this repository
@@ -28,7 +29,9 @@ https://code.visualstudio.com/
     ```
 3. 우측 아래 메시지의 'Reopen in Container' 클릭
 
+    ![vsc_reopen_in_container-1](https://github.com/user-attachments/assets/589d4a6c-ad83-4750-b7b2-e48c1651e198)
     메시지가 뜨지 않을 경우 좌측 아래의 'Open a Remote Window' 버튼 클릭 후 'Reopen in Container' 클릭
+    ![vsc_reopen_in_container-2](https://github.com/user-attachments/assets/dfa43967-b0cc-4087-8d64-f2b2c58ecde4)
 
 ## 코드 실행
 ### REPL 사용
