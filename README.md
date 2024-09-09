@@ -35,13 +35,9 @@ https://code.visualstudio.com/
 
 ## 코드 실행
 ### REPL 사용
-VSC 터미널에서 `ocaml` 또는 `utop` 실행
+VSC 터미널에서 `ocaml` 실행
 ```console
 $ ocaml
-```
-또는
-```console
-$ utop
 ```
 Tip) .ocamlinit 파일에 `#use "<파일명>.ml"`을 작성하면 REPL 실행시에 해당 파일을 자동으로 불러옴
 
