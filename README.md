@@ -48,8 +48,16 @@ $ ocaml < src/scratch_pad.ml
 ```
 
 ### .ml 파일 컴파일 및 실행 (;;로 구분 필요 없음)
-VSC 터미널에서 `ocamlc -o <실행파일명> <파일명>.ml` 또는 `ocamlopt -o <실행파일명> <파일명>.ml` 이용
+VSC 터미널에서 `ocamlc -o <실행파일명> <파일명>.ml` 또는 `ocamlopt -o <실행파일명> <파일명>.ml` 실행
 ```console
 $ ocamlopt -o main main.ml
 $ ./main
+```
+
+## 업데이트된 과제 템플릿 다운로드
+COSE212-2024fall 디렉토리에서 `git pull` 실행
+```console
+$ pwd
+/workspaces/COSE212-2024fall
+$ git pull
 ```
