@@ -1,4 +1,4 @@
-(* Do not open any module *)
+(* Do not use any module *)
 
 (***********************)
 (*  Library functions  *)
